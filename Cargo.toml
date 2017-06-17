@@ -1,0 +1,8 @@
+[package]
+name = "yes"
+version = "0.1.0"
+authors = ["Afshin Mehrabani <afshin.meh@gmail.com>"]
+description = "Same as `yes` command, written in Rust"
+license = "MIT"
+
+[dependencies]
